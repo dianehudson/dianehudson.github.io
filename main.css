@@ -1,11 +1,12 @@
 body {
     background-color: pink;
-    font-family: "Merriweather";
+    font-family: 'Inconsolata', ;
     font-size: 12pt;
-    padding: 10px;
+    padding: 15px;
     padding-bottom: 75px;
+    padding-top: 0px;
 }
 
 img {
-    max-width: 400px;
+    max-width: 350px;
 }
