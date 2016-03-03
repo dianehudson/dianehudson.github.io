@@ -1,0 +1,11 @@
+body {
+    background-color: pink;
+    font-family: "Merriweather";
+    font-size: 12pt;
+    padding: 10px;
+    padding-bottom: 75px;
+}
+
+img {
+    max-width: 400px;
+}
